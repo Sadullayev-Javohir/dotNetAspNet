@@ -1,0 +1,15 @@
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/bin/Debug/net9.0/8_kun
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/bin/Debug/net9.0/8_kun.deps.json
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/bin/Debug/net9.0/8_kun.runtimeconfig.json
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/bin/Debug/net9.0/8_kun.dll
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/bin/Debug/net9.0/8_kun.pdb
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/obj/Debug/net9.0/8_kun.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/obj/Debug/net9.0/8_kun.AssemblyInfoInputs.cache
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/obj/Debug/net9.0/8_kun.AssemblyInfo.cs
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/obj/Debug/net9.0/8_kun.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/obj/Debug/net9.0/8_kun.sourcelink.json
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/obj/Debug/net9.0/8_kun.dll
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/obj/Debug/net9.0/refint/8_kun.dll
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/obj/Debug/net9.0/8_kun.pdb
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/obj/Debug/net9.0/8_kun.genruntimeconfig.cache
+/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/8_kun/obj/Debug/net9.0/ref/8_kun.dll
