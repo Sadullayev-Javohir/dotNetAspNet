@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1KopUpC7rww=",
+  "success": true,
+  "projectFilePath": "/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/9_kun/9_kun.csproj",
+  "expectedPackageFiles": [
+    "/home/kali/.nuget/packages/sixlabors.imagesharp/3.1.10/sixlabors.imagesharp.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

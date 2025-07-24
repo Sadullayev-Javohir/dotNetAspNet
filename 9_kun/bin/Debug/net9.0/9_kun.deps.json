@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "9_kun/1.0.0": {
+        "dependencies": {
+          "SixLabors.ImageSharp": "3.1.10"
+        },
+        "runtime": {
+          "9_kun.dll": {}
+        }
+      },
+      "SixLabors.ImageSharp/3.1.10": {
+        "runtime": {
+          "lib/net6.0/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.1.10.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9_kun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SixLabors.ImageSharp/3.1.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R1HEPcqx3v+kvlOTPouP0g/Nzzud9pHtjlgGbFax3Ivaz8kkaGfS2EPfyDGpmfoTUQ3nQ5wxdhYyYa9fwYA9cw==",
+      "path": "sixlabors.imagesharp/3.1.10",
+      "hashPath": "sixlabors.imagesharp.3.1.10.nupkg.sha512"
+    }
+  }
+}

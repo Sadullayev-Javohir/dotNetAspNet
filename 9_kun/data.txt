@@ -1,0 +1,1 @@
+File async reading text or content
