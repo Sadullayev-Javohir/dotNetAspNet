@@ -1,0 +1,15 @@
+@{
+  ViewData["Title"] = "Mahsulotni tahrirlash";
+  var id = ViewBag.ProductId;
+}
+
+<h2>Mahsulotni tahrirlash (ID: @id)</h2>
+
+<form method="post">
+    <input type="hidden" name="id" value="@id" />
+    <label>Yangi nomi:</label>
+    <input type="text" name="name" />
+    <button type="submit">Saqlash</button>
+</form>
+
+<p><a href="/Product">Ortga</a></p>

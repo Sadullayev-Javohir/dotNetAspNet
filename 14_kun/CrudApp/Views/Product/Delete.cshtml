@@ -1,0 +1,13 @@
+@{
+    ViewData["Title"] = "Mahsulotni o‘chirish";
+    var id = ViewBag.ProductId;
+}
+
+<h2>O‘chirishga ishonchingiz komilmi? (ID: @id)</h2>
+
+<form method="post" asp-action="DeleteConfirmed">
+    <input type="hidden" name="id" value="@id" />
+    <button type="submit">Ha, o‘chirish</button>
+</form>
+
+<p><a href="/Product">Ortga</a></p>

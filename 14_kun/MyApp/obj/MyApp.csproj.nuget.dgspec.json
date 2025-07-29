@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/14_kun/MyApp/MyApp.csproj": {}
+  },
+  "projects": {
+    "/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/14_kun/MyApp/MyApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/14_kun/MyApp/MyApp.csproj",
+        "projectName": "MyApp",
+        "projectPath": "/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/14_kun/MyApp/MyApp.csproj",
+        "packagesPath": "/home/kali/.nuget/packages/",
+        "outputPath": "/home/kali/Desktop/MICROSOFT/PRACTISE/NET_ASP/14_kun/MyApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
