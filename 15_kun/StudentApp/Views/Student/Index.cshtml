@@ -1,0 +1,22 @@
+@model List<StudentApp.ViewModels.StudentViewModel>
+
+<h2>Talabalar ro'yxati</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>To'liq Ism</th>
+            <th>Yoshi</th>
+            <th>GPA Holati</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.FullName</td>
+                <td>@student.Age</td>
+                <td>@student.GPAStatus</td>
+            </tr>
+        }
+    </tbody>
