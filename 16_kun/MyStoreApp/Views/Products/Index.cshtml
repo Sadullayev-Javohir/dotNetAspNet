@@ -1,0 +1,9 @@
+@model IEnumerable<MyStoreApp.Models.Product>
+<h2>Mahsulotlar</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  @foreach (var product in Model)
+  {
+    @Html.Partial("_ProductCard", product)
+  }
+</div>

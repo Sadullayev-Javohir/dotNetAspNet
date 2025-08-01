@@ -1,0 +1,16 @@
+@using UIMvc.Models
+@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Mahsulotlar ro‘yxati";
+}
+
+<h1 class="text-2xl font-bold mb-4">Mahsulotlar</h1>
+
+<div class="grid grid-cols-3 gap-6">
+@foreach (var product in Model)
+{
+    <!-- Partial View chaqirilyapti -->
+    @Html.Partial("_ProductCard", product)
+}
+</div>

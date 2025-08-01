@@ -1,0 +1,10 @@
+@model IEnumerable<MyBookStore.Models.Book>
+
+<h2>Kitoblar ro'yxati</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 29px;">
+    @foreach (var book in Model)
+    {
+        @Html.Partial("_BookCard", book)
+    }
+</div>

@@ -1,0 +1,12 @@
+@model MyBookStore.Models.Book
+
+<div style="border: 1px solid #eee; padding: 12px; width: 240px; border-radius: 10px;">
+    <img src="@Model.CoverImage" alt="@Model.Title" style="width:100%; height:180px; object-fit:cover; border-radius: 6px;" />
+    <h3>@Model.Title</h3>
+    <p><em>@Model.Author</em></p>
+    <p>@Model.Description</p>
+    <p><strong>@Model.Price</strong> so‘m</p>
+    <button style="background: #ff6f00; color: white; padding: 6px 12px; border: none; border-radius: 5px;">
+        Xarid qilish
+    </button>
+</div>
