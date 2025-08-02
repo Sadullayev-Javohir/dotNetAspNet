@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"] - LayoutDemo</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <h1>Sayt sarlavhasi</h1>
+        <nav>
+            <a href="/">Bosh sahifa</a>
+            <a href="/Home/About">Haqida</a>
+        </nav>
+    </header>
+
+    <main role="main" class="container">
+        @RenderBody() <!-- Sahifaning asosiy qismi shu yerga joylanadi -->
+    </main>
+
+    <footer>
+        <p>&copy; 2025 - LayoutDemo</p>
+    </footer>
+</body>
+</html>

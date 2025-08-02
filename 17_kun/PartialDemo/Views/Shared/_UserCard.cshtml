@@ -1,0 +1,11 @@
+@model UserCard
+
+<div class="card" style="width: 18rem; box-shadow: 0 0 10px rgba(0,0,0,0.1); margin:10px; border-radius:8px; overflow:hidden;">
+    <img src="@Model.ImageUrl" class="card-img-top" alt="Foydalanuvchi rasmi" style="height:200px; object-fit:cover;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text text-muted">@Model.Job</p>
+        <a href="#" class="btn btn-primary">Profilga o‘tish</a>
+    </div>
+</div>
+
