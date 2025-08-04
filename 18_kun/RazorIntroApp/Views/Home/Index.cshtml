@@ -1,0 +1,16 @@
+﻿@{
+    var user = ViewData["User"] as RazorIntroApp.Models.User;
+    string message = ViewData["Message"] as string;
+}
+
+@if (user != null)
+{
+    <h1>Foydalanuvchi ismi: @user.Name</h1>
+    <p>Yosh: @user.Age</p>
+}
+else
+{
+    <p>No user data available.</p>
+}
+
+<h1>@message</h1>

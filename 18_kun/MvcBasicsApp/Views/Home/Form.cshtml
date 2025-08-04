@@ -1,0 +1,42 @@
+@model MvcBasicApp.Models.UserForm
+
+@{
+    ViewData["Title"] = "Ro'yxatdan o'tish formasi";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Form" method="post">
+    <div>
+        <label>Ismingiz:</label>
+        <input asp-for="Name" />
+    </div>
+
+    <div>
+        <label>Yoshingiz:</label>
+        <input asp-for="Age" type="number" />
+    </div>
+
+    <div>
+        <label>Jinsi:</label>
+        <select asp-for="Gender">
+            <option value="">Tanlang</option>
+            <option>Erkak</option>
+            <option>Ayol</option>
+        </select>
+    </div>
+
+    <div>
+        <label>
+            <input asp-for="IsSubscribed" type="checkbox" />
+            Yangiliklarga obuna bo‘ling
+        </label>
+    </div>
+
+    <button type="submit">Yuborish</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <p style="color: green">@ViewBag.Message</p>
+}

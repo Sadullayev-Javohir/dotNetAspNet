@@ -1,0 +1,21 @@
+@model StudentForm.Models.Student
+
+<form asp-action="Register" method="post">
+  <div>
+    <label asp-for="FullName"></label>
+    <input asp-for="FullName" />
+  </div>
+
+  <div>
+    <label asp-for="Age"></label>
+    <input asp-for="Age" type="number" />
+  </div>
+
+  <button type="submit">Yuborish</button>
+</form>
+
+@if(ViewBag.Name!=null && ViewBag.Age!=null)
+{
+  <p>Xush kelibsiz, @ViewBag.Name!</p>
+
+}
