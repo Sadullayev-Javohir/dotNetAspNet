@@ -1,0 +1,12 @@
+@model MeningLoyiham.Models.Product;
+
+<h2>Edit Product</h2>
+
+<form asp-action="Edit" method="post">
+  <input type="hidden" asp-for="Id" />
+  <label>Name:</label>
+  <input asp-for="Name" /><br/>
+  <label>Price:</label>
+  <input asp-for="Price" /><br/>
+  <button type="submit">Save</button>
+</form>

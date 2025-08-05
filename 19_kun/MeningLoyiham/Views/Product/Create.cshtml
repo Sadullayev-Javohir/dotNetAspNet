@@ -1,0 +1,11 @@
+@model MeningLoyiham.Models.Product
+
+<h2>Create New Product</h2>
+
+<form asp-action="Create" method="post">
+  <label>Name: </label>
+  <input asp-for="Name" /><br/>
+  <label>Price: </label>
+  <input asp-for="Price" /><br/>
+  <button type="submit">Create</button>
+</form>
