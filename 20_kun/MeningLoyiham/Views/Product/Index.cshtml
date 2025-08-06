@@ -1,0 +1,27 @@
+@model List<MeningLoyiham.Models.Product>
+
+<h2>Product List</h2>
+
+<a href="/Product/Create"> + Yangi Mahsulot</a>
+
+<table>
+  <tr>
+    <th>Id</th><th>Name</th><th>Price</th><th>Actions</th>
+  </tr>
+
+  @foreach(var i in Model)
+  {
+    <tr>
+      <td>@i.Id</td>
+      <td>@i.Name</td>
+      <td>@i.Price</td>
+
+      <td>
+        <a href="/Product/Details/@i.Id">Details</a>
+        <a href="/Product/Edit/@i.Id">Edit</a>
+        <a href="/Product/Delete/@i.Id">Delete</a>
+      </td>
+    </tr>
+
+  }
+</table>
