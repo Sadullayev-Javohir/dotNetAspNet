@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>@ViewData["Title"] - My App</title>
+  <link rel="stylesheet" href="~/css/site.css" />
+</head>
+
+<body>
+  @* header qismi (Partial orqali) *@
+  @await Html.PartialAsync("_HeaderPartial")
+
+  @* Asosiy kontent joyi *@
+  <div class="container">
+    @RenderBody()
+  </div>
+
+  @* Footer qismi (Partial orqali ) *@
+  @await Html.PartialAsync("_FooterPartial")
+
+  @* Qo'shimcha scriptlar joyi *@
+  @RenderSection("Scripts", required: false)
+
+</body>
+
+</html>

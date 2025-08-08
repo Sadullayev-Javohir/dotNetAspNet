@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<html>
+  <head></head>
+  <body>
+    @* header *@
+    @await Html.PartialAsync("_HeaderPartial")
+
+    @* asosiy index.cshtml *@
+    @RenderBody()
+
+    @* footer *@
+    @await Html.PartialAsync("_FooterPartial")
+  </body>
+</html>
