@@ -1,0 +1,46 @@
+@model Annotation.Models.RegisterViewModel
+
+<h2>Ro'yxatdan o'tish</h2>
+
+<form asp-action="Register" method="post">
+  <div>
+    <label for="FirstName">Ism</label>
+    <input asp-for="FirstName" />
+    <span asp-validation-for="FirstName"></span>
+  </div>
+
+  <div>
+    <label for="Email">Email: </label>
+    <input asp-for="Email" />
+    <span asp-validation-for="Email"></span>
+  </div>
+
+  <div>
+    <label for="Age">Yosh: </label>
+    <input asp-for="Age" />
+    <span asp-validation-for="Age"></span>
+  </div>
+
+  <div>
+    <label for="Phone">Telefon: </label>
+    <input asp-for="Phone" />
+    <span asp-validation-for="Phone"></span>
+  </div>
+
+  <div>
+    <label for="Password">Parol: </label>
+    <input asp-for="Password" type="password" />
+    <span asp-validation-for="Password"></span>
+  </div>
+
+  <div>
+    <label for="ConfirmPassword">Parolni tasdiqlang: </label>
+    <input asp-for="ConfirmPassword" type="password" />
+    <span asp-validation-for="ConfirmPassword"></span>
+  </div>
+  <button type="Submit">Yuborish</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
