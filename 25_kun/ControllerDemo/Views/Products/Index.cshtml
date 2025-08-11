@@ -1,0 +1,40 @@
+@model IEnumerable<ControllerDemo.Models.Product>
+
+@{
+  ViewData["Title"] = "Products";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+  <a class="btn btn-primary" asp-action="Create">Create New</a>
+</p>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var item in Model)
+    {
+      <tr>
+        <td>@item.Id</td>
+        <td>@item.Name</td>
+        <td>@item.Price.ToString("C")</td>
+        <td>
+          <a class="btn btn-sm btn-info" asp-action="Details" asp-route-id="@item.Id">Details</a>
+          <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+
+          <form asp-action="Delete" asp-route-id="@item.Id" method="post" class="d-inline">
+            @Html.AntiForgeryToken()
+            <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Haqiqatan o\'chirmoqchimisiz?')">Delete</button>
+          </form>
+        </td>
+      </tr>
+    }
+  </tbody>
+</table>

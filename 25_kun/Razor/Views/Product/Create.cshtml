@@ -1,0 +1,39 @@
+@model Razor.Models.Product
+
+@{
+  ViewData["Title"] = "Mahsulot qo'shish";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post">
+  <div>
+    <label asp-for="Name"></label>
+    <input asp-for="Name" class="form-control" type="text" />
+  </div>
+
+  <div>
+    <label asp-for="Price"></label>
+    <input asp-for="Price" class="form-control" type="text">
+  </div>
+
+  <div>
+    <label asp-for="Category"></label>
+    <select asp-for="Category" class="form-control">
+      <option>Elektronika</option>
+      <option>Uy Jihozlari</option>
+      <option>Kitoblar</option>
+    </select>
+  </div>
+
+  <div>
+    <input asp-for="IsAvailable" /> <label asp-for="IsAvailable"></label>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Yuborish</button>
+</form>
+
+@if(ViewBag.Message != null)
+{
+  <p style="color:green">@ViewBag.Message</p>
+}

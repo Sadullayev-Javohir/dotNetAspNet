@@ -1,0 +1,12 @@
+@model List<Mvc.Models.Product>
+
+<h2>Mahsulotlar ro'yxati</h2>
+
+<ul>
+  @foreach(var item in Model)
+  {
+    <li>@item.Name - @item.Price so'm</li>
+  }
+</ul>
+
+<p>@DateTime.Now</p>
