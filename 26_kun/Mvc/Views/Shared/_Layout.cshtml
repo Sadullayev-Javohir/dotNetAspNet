@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>@ViewData["Title"] - MyMvcApp</title>
+  <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+  <header>
+    @Html.Partial("_PartialHeader")
+  </header>
+
+  <div class="container">
+    @RenderBody()
+  </div>
+
+  <footer>
+    <p>&copy; @DateTime.Now.Year - Mvc</p>
+  </footer>
+</body>
+
+</html>
