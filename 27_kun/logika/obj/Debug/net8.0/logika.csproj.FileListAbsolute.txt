@@ -1,0 +1,15 @@
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/bin/Debug/net8.0/logika
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/bin/Debug/net8.0/logika.deps.json
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/bin/Debug/net8.0/logika.runtimeconfig.json
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/bin/Debug/net8.0/logika.dll
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/bin/Debug/net8.0/logika.pdb
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/obj/Debug/net8.0/logika.GeneratedMSBuildEditorConfig.editorconfig
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/obj/Debug/net8.0/logika.AssemblyInfoInputs.cache
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/obj/Debug/net8.0/logika.AssemblyInfo.cs
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/obj/Debug/net8.0/logika.csproj.CoreCompileInputs.cache
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/obj/Debug/net8.0/logika.sourcelink.json
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/obj/Debug/net8.0/logika.dll
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/obj/Debug/net8.0/refint/logika.dll
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/obj/Debug/net8.0/logika.pdb
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/obj/Debug/net8.0/logika.genruntimeconfig.cache
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/27_kun/logika/obj/Debug/net8.0/ref/logika.dll

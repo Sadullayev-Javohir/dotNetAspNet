@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CustomValidator1/1.0.0": {
+        "runtime": {
+          "CustomValidator1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomValidator1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
