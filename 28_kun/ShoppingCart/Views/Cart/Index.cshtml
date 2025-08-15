@@ -1,0 +1,27 @@
+@model List<ShoppingCart.Models.CartItem>
+
+<h2>Savatcha</h2>
+@if (!Model.Any())
+{
+  <p>Savatcha bo‘sh</p>
+}
+else
+{
+  <table border="1" cellpadding="5">
+    <tr>
+      <th>Mahsulot</th>
+      <th>Narx</th>
+      <th>Soni</th>
+      <th>Jami</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+      <tr>
+        <td>@item.ProductName</td>
+        <td>$@item.Price</td>
+        <td>@item.Quantity</td>
+        <td>$@(item.Price* item.Quantity)</td>
+      </tr>
+    }
+  </table>
+}

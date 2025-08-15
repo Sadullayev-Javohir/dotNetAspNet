@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j8EAum5NMIFIzhedzLnoyJhfZJ73ciO8IAoV3XaZB9sBxTlPjltRJao2cyo5L0UEtV0D3T69Lx5W5O+GyZYkFw==",
+  "success": true,
+  "projectFilePath": "/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/28_kun/Fluent/Fluent.csproj",
+  "expectedPackageFiles": [
+    "/home/u/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512",
+    "/home/u/.nuget/packages/fluentvalidation.aspnetcore/11.3.1/fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "/home/u/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.11.0/fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "/home/u/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
