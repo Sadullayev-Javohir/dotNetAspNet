@@ -1,0 +1,25 @@
+<!-- Views/Cart/Index.cshtml -->
+@model List<CartItem>
+
+<h2>Savatcha</h2>
+
+@if (TempData["Message"] != null)
+{
+  <div>@TempData["Message"]</div>
+}
+
+<table>
+  <tr>
+    <th>Mahsulot</th>
+    <th>Narx</th>
+    <th>Miqdor</th>
+  </tr>
+  @foreach (var item in Model)
+  {
+    <tr>
+      <td>@item.Product.Name</td>
+      <td>@item.Product.Price</td>
+      <td>@item.Quantity</td>
+    </tr>
+  }
+</table>
