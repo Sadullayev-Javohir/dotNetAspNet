@@ -1,0 +1,18 @@
+﻿@using Microsoft.AspNetCore.Identity
+@{
+  ViewData["Title"] = "Home Page";
+}
+
+<h2>Welcome to My Identity App</h2>
+
+@if (User.Identity != null && User.Identity.IsAuthenticated)
+{
+  <p>Hello, @User.Identity.Name!</p>
+  <a asp-controller="Account" asp-action="Logout">Logout</a>
+}
+else
+{
+  <a asp-controller="Account" asp-action="Login">Login</a>
+  <span> | </span>
+  <a asp-controller="Account" asp-action="Register">Register</a>
+}
