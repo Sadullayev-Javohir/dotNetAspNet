@@ -1,0 +1,15 @@
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/obj/Debug/net8.0/NoDI.GeneratedMSBuildEditorConfig.editorconfig
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/obj/Debug/net8.0/NoDI.AssemblyInfoInputs.cache
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/obj/Debug/net8.0/NoDI.AssemblyInfo.cs
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/obj/Debug/net8.0/NoDI.csproj.CoreCompileInputs.cache
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/obj/Debug/net8.0/NoDI.sourcelink.json
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/bin/Debug/net8.0/NoDI
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/bin/Debug/net8.0/NoDI.deps.json
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/bin/Debug/net8.0/NoDI.runtimeconfig.json
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/bin/Debug/net8.0/NoDI.dll
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/bin/Debug/net8.0/NoDI.pdb
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/obj/Debug/net8.0/NoDI.dll
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/obj/Debug/net8.0/refint/NoDI.dll
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/obj/Debug/net8.0/NoDI.pdb
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/obj/Debug/net8.0/NoDI.genruntimeconfig.cache
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/31_kun/NoDI/obj/Debug/net8.0/ref/NoDI.dll
