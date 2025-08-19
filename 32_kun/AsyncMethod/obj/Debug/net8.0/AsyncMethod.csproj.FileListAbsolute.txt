@@ -1,0 +1,15 @@
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/bin/Debug/net8.0/AsyncMethod
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/bin/Debug/net8.0/AsyncMethod.deps.json
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/bin/Debug/net8.0/AsyncMethod.runtimeconfig.json
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/bin/Debug/net8.0/AsyncMethod.dll
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/bin/Debug/net8.0/AsyncMethod.pdb
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/obj/Debug/net8.0/AsyncMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/obj/Debug/net8.0/AsyncMethod.AssemblyInfoInputs.cache
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/obj/Debug/net8.0/AsyncMethod.AssemblyInfo.cs
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/obj/Debug/net8.0/AsyncMethod.csproj.CoreCompileInputs.cache
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/obj/Debug/net8.0/AsyncMethod.sourcelink.json
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/obj/Debug/net8.0/AsyncMethod.dll
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/obj/Debug/net8.0/refint/AsyncMethod.dll
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/obj/Debug/net8.0/AsyncMethod.pdb
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/obj/Debug/net8.0/AsyncMethod.genruntimeconfig.cache
+/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/AsyncMethod/obj/Debug/net8.0/ref/AsyncMethod.dll

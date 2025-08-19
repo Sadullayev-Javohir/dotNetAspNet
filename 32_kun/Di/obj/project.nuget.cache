@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mHaZRxEz8FjQrB2+MFgzab+ob+h3qfEBIWeU7wnW4izV+jN+ZCz12aGjYqzF9Nn9Nk3hDEVWAp2EEXI7P8Wqsw==",
+  "success": true,
+  "projectFilePath": "/home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/Di/Di.csproj",
+  "expectedPackageFiles": [
+    "/home/u/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.8/microsoft.extensions.dependencyinjection.9.0.8.nupkg.sha512",
+    "/home/u/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.8/microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

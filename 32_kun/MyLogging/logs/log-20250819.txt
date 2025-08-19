@@ -1,0 +1,21 @@
+2025-08-19 15:45:24.583 +05:00 [INF] Dastur ishga tushdi
+2025-08-19 15:45:24.768 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-19 15:45:24.776 +05:00 [INF] Hosting environment: Production
+2025-08-19 15:45:24.778 +05:00 [INF] Content root path: /home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/MyLogging
+2025-08-19 15:46:54.975 +05:00 [INF] Application is shutting down...
+2025-08-19 15:58:30.824 +05:00 [INF] Dastur ishga tushdi
+2025-08-19 15:58:31.032 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-19 15:58:31.041 +05:00 [INF] Hosting environment: Production
+2025-08-19 15:58:31.043 +05:00 [INF] Content root path: /home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/MyLogging
+2025-08-19 16:01:31.373 +05:00 [INF] Application is shutting down...
+2025-08-19 16:01:37.575 +05:00 [INF] Dastur ishga tushdi
+2025-08-19 16:01:37.830 +05:00 [INF] MyService ishlayapti...
+2025-08-19 16:01:37.841 +05:00 [INF] Hisoblash boshlanmoqda: x=10, y=0
+2025-08-19 16:01:37.847 +05:00 [WRN] Bo‘linuvchi y=0, nolga bo‘linish xatoligi bo‘lishi mumkin!
+2025-08-19 16:01:37.849 +05:00 [ERR] Hisoblashda xatolik yuz berdi
+System.DivideByZeroException: Attempted to divide by zero.
+   at MyService.Run() in /home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/MyLogging/MyService.cs:line 29
+2025-08-19 16:01:37.868 +05:00 [FTL] Jiddiy xato yuz berdi, servis to‘xtashi mumkin!
+2025-08-19 16:01:37.905 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-19 16:01:37.908 +05:00 [INF] Hosting environment: Production
+2025-08-19 16:01:37.909 +05:00 [INF] Content root path: /home/u/Desktop/MICROSOFT/PRACTISE/dotNetAspNet/32_kun/MyLogging
