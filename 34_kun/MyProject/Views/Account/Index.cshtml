@@ -1,0 +1,42 @@
+@model IEnumerable<MyProject.Models.ApplicationUser>
+
+
+@{
+  ViewData["Title"] = "User List";
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr>
+
+<a class="btn btn-primary" href="Account/Register">Ro'yxatdan o'tish</a>
+<br>
+<br>
+<a class="btn btn-primary" href="Account/Login">Kirish</a>
+<a class="btn btn-primary" href="Account/LogOut">LogOut</a>
+
+
+@if(!Model.Any())
+{
+  <div class="alert alert-warning">List bo'sh</div>
+}
+else
+{
+  <table class="table table-boarded tabale-striped">
+    <thead>
+      <tr>
+        <th>Id</th><th>Email</th><th>UserName</th><th>Full Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      @foreach(var user in Model)
+      {
+        <tr>
+          <td>@user.Id</td>
+          <td>@user.Email</td>
+          <td>@user.UserName</td>
+          <td>@user.FullName</td>
+        </tr>
+      }
+    </tbody>
+  </table>
+}
