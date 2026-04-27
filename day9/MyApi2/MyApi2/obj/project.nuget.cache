@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "At5kCs3oHoc=",
+  "success": true,
+  "projectFilePath": "/home/javohir/Desktop/dotNetAspNet/day9/MyApi2/MyApi2/MyApi2.csproj",
+  "expectedPackageFiles": [
+    "/home/javohir/.nuget/packages/microsoft.aspnetcore.openapi/10.0.7/microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "/home/javohir/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/home/javohir/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
