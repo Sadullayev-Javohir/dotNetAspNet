@@ -1,0 +1,15 @@
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.sourcelink.json
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/home/javohir/Desktop/dotNetAspNet/day15/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
