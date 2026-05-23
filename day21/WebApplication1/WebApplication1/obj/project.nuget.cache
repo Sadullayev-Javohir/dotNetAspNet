@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "WjNPD+NLIVc=",
+  "success": true,
+  "projectFilePath": "/home/javohir/Desktop/dotNetAspNet/day21/WebApplication1/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/home/javohir/.nuget/packages/microsoft.aspnetcore.openapi/10.0.7/microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "/home/javohir/.nuget/packages/microsoft.entityframeworkcore/10.0.8/microsoft.entityframeworkcore.10.0.8.nupkg.sha512",
+    "/home/javohir/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.8/microsoft.entityframeworkcore.abstractions.10.0.8.nupkg.sha512",
+    "/home/javohir/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.8/microsoft.entityframeworkcore.analyzers.10.0.8.nupkg.sha512",
+    "/home/javohir/.nuget/packages/microsoft.entityframeworkcore.inmemory/10.0.8/microsoft.entityframeworkcore.inmemory.10.0.8.nupkg.sha512",
+    "/home/javohir/.nuget/packages/microsoft.extensions.apidescription.server/10.0.0/microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "/home/javohir/.nuget/packages/microsoft.extensions.dependencymodel/10.0.0/microsoft.extensions.dependencymodel.10.0.0.nupkg.sha512",
+    "/home/javohir/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/10.0.8/microsoft.extensions.diagnostics.healthchecks.10.0.8.nupkg.sha512",
+    "/home/javohir/.nuget/packages/microsoft.openapi/2.4.1/microsoft.openapi.2.4.1.nupkg.sha512",
+    "/home/javohir/.nuget/packages/serilog/4.3.0/serilog.4.3.0.nupkg.sha512",
+    "/home/javohir/.nuget/packages/serilog.aspnetcore/10.0.0/serilog.aspnetcore.10.0.0.nupkg.sha512",
+    "/home/javohir/.nuget/packages/serilog.extensions.hosting/10.0.0/serilog.extensions.hosting.10.0.0.nupkg.sha512",
+    "/home/javohir/.nuget/packages/serilog.extensions.logging/10.0.0/serilog.extensions.logging.10.0.0.nupkg.sha512",
+    "/home/javohir/.nuget/packages/serilog.formatting.compact/3.0.0/serilog.formatting.compact.3.0.0.nupkg.sha512",
+    "/home/javohir/.nuget/packages/serilog.settings.configuration/10.0.0/serilog.settings.configuration.10.0.0.nupkg.sha512",
+    "/home/javohir/.nuget/packages/serilog.sinks.console/6.1.1/serilog.sinks.console.6.1.1.nupkg.sha512",
+    "/home/javohir/.nuget/packages/serilog.sinks.debug/3.0.0/serilog.sinks.debug.3.0.0.nupkg.sha512",
+    "/home/javohir/.nuget/packages/serilog.sinks.file/7.0.0/serilog.sinks.file.7.0.0.nupkg.sha512",
+    "/home/javohir/.nuget/packages/swashbuckle.aspnetcore/10.1.7/swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
+    "/home/javohir/.nuget/packages/swashbuckle.aspnetcore.swagger/10.1.7/swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "/home/javohir/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.1.7/swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "/home/javohir/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.1.7/swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Diagnostics.HealthChecks will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "/home/javohir/Desktop/dotNetAspNet/day21/WebApplication1/WebApplication1/WebApplication1.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/javohir/Desktop/dotNetAspNet/day21/WebApplication1/WebApplication1/WebApplication1.csproj",
+      "libraryId": "Microsoft.Extensions.Diagnostics.HealthChecks",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
